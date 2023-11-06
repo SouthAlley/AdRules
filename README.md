@@ -107,29 +107,5 @@ mvn spring-boot:run
 - 登录 `Github`，点击本仓库右上角 `Code` 按钮，选择并创建新的 `Codespaces`
 - 等待 `Codespaces` 启动，即可直接对本项目进行调试
 
-### 如何更新
-
-当源代码存在更新时，(你的)仓库首页会出现如下图提示:
-<img src="./screen.png">
-
-此时选择 **Sync fork** 再选择 **Update branch** 即可同步更新.  
-(如曾修改过源代码，那么合并可能存在冲突，请谨慎处理)
-
-<br/>
-<h2 id="c">🎯 规则订阅</h2>
-
-**⚠ 本仓库不再提供规则订阅，我们更推荐 fork 本项目自行构建规则集.**
-
-下面是使用了本项目进行构建的规则仓库，可在其中寻找合适的规则订阅:
-<details>
-<summary>点击查看</summary>
-<ul>
-    <li><a href="https://github.com/xndeye/adblock_list/">xndeye/adblock_list</a></li>
-    <p>欢迎提交 issues 或 pr 留下你的仓库地址~</p>
-</ul>
-</details>
-
-<br/>
-<h2 id="d">💬 问题反馈</h2>
-
-- 👉 [issues](https://github.com/fordes123/ad-filters-subscriber/issues)
+## 项目原地址
+ad-filters-subscriber(https://github.com/fordes123/ad-filters-subscriber)
